@@ -1,0 +1,16 @@
+{
+    "name": "bortomar/custom-composer-package",
+    "autoload": {
+        "psr-4": {
+            "Bortomar\\CustomComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mario Bortolotti",
+            "email": "bortomar@email.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
